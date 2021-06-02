@@ -89,14 +89,14 @@ ol li
   margin-right: auto;}
 
 #header
-{ background: #A80000;
+{ background: #a76969;
   height: 240px;}
 
 #logo
 { width: 860px;
   position: relative;
   height: 168px;
-  background: #A80000 url(logomineduc.png) no-repeat;}
+  background: #a76969 url(logomineduc.png) no-repeat;}
 
 #logo #logo_text 
 { position: absolute; 
